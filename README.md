@@ -1,7 +1,13 @@
 # PAC-MAN-GAME
 Ứng dụng Alogorithm vào 4 ghost để tạo ra game AI
 
-# PAC-MAN GAME - AI THÔNG MINH
+<img width="1005" height="860" alt="Image" src="https://github.com/user-attachments/assets/0b5c5001-0d42-44a3-af80-0d292a8cb987" />
+
+<img width="1247" height="868" alt="Image" src="https://github.com/user-attachments/assets/9570d7e1-39ec-4695-9cd8-33b3269ec2c1" />
+
+<img width="1247" height="856" alt="Image" src="https://github.com/user-attachments/assets/7981a780-759d-4c60-bf3e-172d7b5cf011" />
+
+<img width="1250" height="857" alt="Image" src="https://github.com/user-attachments/assets/6c16fa3f-051b-4ac9-b364-6c303b7c5bbd" />
 
 ## Mô tả
 Game Pac-Man được viết bằng Python với pygame, có hệ thống AI thông minh cho ma quái và nhiều tính năng đặc biệt.
